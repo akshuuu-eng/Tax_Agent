@@ -1,0 +1,114 @@
+{
+    "year": "2024",
+    "currency_symbol": "$",
+    "standard_deduction": {
+        "Single": 14600,
+        "Married Filing Jointly": 29200,
+        "Head of Household": 21900
+    },
+    "senior_additional_deduction": {
+        "Single": 1950,
+        "Head of Household": 1950,
+        "Married Filing Jointly": 1550
+    },
+    "tax_brackets": {
+        "Single": [
+            {
+                "limit": 11600,
+                "rate": 0.10
+            },
+            {
+                "limit": 47150,
+                "rate": 0.12
+            },
+            {
+                "limit": 100525,
+                "rate": 0.22
+            },
+            {
+                "limit": 191950,
+                "rate": 0.24
+            },
+            {
+                "limit": 243725,
+                "rate": 0.32
+            },
+            {
+                "limit": 609350,
+                "rate": 0.35
+            },
+            {
+                "limit": null,
+                "rate": 0.37
+            }
+        ],
+        "Married Filing Jointly": [
+            {
+                "limit": 23200,
+                "rate": 0.10
+            },
+            {
+                "limit": 94300,
+                "rate": 0.12
+            },
+            {
+                "limit": 201050,
+                "rate": 0.22
+            },
+            {
+                "limit": 383900,
+                "rate": 0.24
+            },
+            {
+                "limit": 487450,
+                "rate": 0.32
+            },
+            {
+                "limit": 731200,
+                "rate": 0.35
+            },
+            {
+                "limit": null,
+                "rate": 0.37
+            }
+        ],
+        "Head of Household": [
+            {
+                "limit": 16550,
+                "rate": 0.10
+            },
+            {
+                "limit": 63100,
+                "rate": 0.12
+            },
+            {
+                "limit": 100500,
+                "rate": 0.22
+            },
+            {
+                "limit": 191950,
+                "rate": 0.24
+            },
+            {
+                "limit": 243700,
+                "rate": 0.32
+            },
+            {
+                "limit": 609350,
+                "rate": 0.35
+            },
+            {
+                "limit": null,
+                "rate": 0.37
+            }
+        ]
+    },
+    "deduction_limits": {
+        "401k": 23000,
+        "hsa_self": 4150,
+        "hsa_family": 8300,
+        "trad_ira": 7000,
+        "salt_cap": 10000,
+        "medical_agi_floor": 0.075
+    }
+}

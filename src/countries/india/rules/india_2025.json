@@ -1,0 +1,61 @@
+{
+    "year": "FY 2025-26",
+    "currency_symbol": "₹",
+    "standard_deduction": {
+        "old_regime": 50000,
+        "new_regime": 75000
+    },
+    "tax_slabs": {
+        "old": [
+            {"limit": 250000, "rate": 0.0},
+            {"limit": 500000, "rate": 0.05},
+            {"limit": 1000000, "rate": 0.20},
+            {"limit": null, "rate": 0.30}
+        ],
+        "new": [
+            {"limit": 300000, "rate": 0.0},
+            {"limit": 700000, "rate": 0.05},
+            {"limit": 1000000, "rate": 0.10},
+            {"limit": 1200000, "rate": 0.15},
+            {"limit": 1500000, "rate": 0.20},
+            {"limit": null, "rate": 0.30}
+        ]
+    },
+    "rebate_87a": {
+        "old_regime": {"limit": 500000, "max_rebate": 12500},
+        "new_regime": {"limit": 700000, "max_rebate": 25000}
+    },
+    "surcharge": {
+        "threshold": 5000000,
+        "rate": 0.10
+    },
+    "cess_rate": 0.04,
+    "deduction_limits": {
+        "80C": 150000,
+        "80CCD1B_NPS": 50000,
+        "80D": {
+            "self": 25000,
+            "self_senior": 50000,
+            "parents": 25000,
+            "parents_senior": 50000
+        },
+        "80DD": {
+            "normal": 75000,
+            "severe": 125000
+        },
+        "80DDB": {
+            "under_60": 40000,
+            "senior": 100000
+        },
+        "80EE": 50000,
+        "80EEB": 150000,
+        "80TTA": 10000,
+        "80TTB": 50000,
+        "80U": {
+            "normal": 75000,
+            "severe": 125000
+        },
+        "80QQB": 300000,
+        "80RRB": 300000
+    }
+}

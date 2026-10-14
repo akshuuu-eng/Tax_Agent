@@ -1,0 +1,27 @@
+============================================================
+   INCOME TAX COMPUTATION (FY 2025-26)   
+============================================================
+
+ Assessee: User | Age: 19 | Date: 2026-02-12
+ Recommended Form:   ITR-2/3
+ Recommended Regime: NEW REGIME
+------------------------------------------------------------
+ 1. GROSS INCOME DETAILS
+    Total Income:        ₹ 100,000.00
+------------------------------------------------------------
+ 2. DEDUCTIONS CLAIMED (Old Regime)
+    - HRA Exemption        ₹ 0.00
+    - Std Deduction        ₹ 50,000.00
+    - 80C (Statement)      ₹ 59.00
+    - 80D (Statement)      ₹ 0.00
+    - Interview Extras     ₹ 0.00
+------------------------------------------------------------
+ 3. TAX LIABILITY SUMMARY
+    Regime          | Tax Payable    
+    ----------------|----------------
+    Old Regime      | ₹ 0.00
+    New Regime      | ₹ 0.00
+============================================================
+ SAVINGS with New Regime: ₹ 0
+
+ DISCLAIMER: System Generated Estimate.

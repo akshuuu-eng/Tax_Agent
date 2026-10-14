@@ -1,0 +1,477 @@
+,,,Savings Ac,count Transac,tions,,,
+# D,ate,,Description,Chq/Ref. No.,Withdraw,al (Dr.) Deposit,(Cr.) Balanc,e
+- -,,,Opening Balance,-,,-,-,0.00
+1 30,Sep,2025,KOTAK811/527395333804,,,,"5,000.00","5,000.00"
+2 01,Oct,2025,Ac xfr from gl 11997 to 12048,,,"5,000.00",,0.00
+3 01,Oct,2025,Ac xfr from gl 11997 to 12048,,,,"5,000.00","5,000.00"
+4 01,Oct,2025,KOTAK811/527496033707,,,,"5,000.00","10,000.00"
+5 01,Oct,2025,811 SUPER PROGRAM FEE,SUPER15518297,,399.00,,"9,601.00"
+6 02,Oct,2025,UPI/paytmqr163tdn@p/527513983143/UPI,UPI-527533152493,,30.00,,"9,571.00"
+7 02,Oct,2025,Ac xfr from gl 12048 to 12042,,,"9,571.00",,0.00
+8 02,Oct,2025,Ac xfr from gl 12048 to 12042,,,,"9,571.00","9,571.00"
+9 02,Oct,2025,UPI/paytmqr28100505/527515252627/UPI,UPI-527539319758,,120.00,,"9,451.00"
+10 04,Oct,2025,UPI/q444227230@ybl/527713751605/UPI,UPI-527768698930,,265.00,,"9,186.00"
+11 04,Oct,2025,UPI/Swiggy/527773513466/Debit Money Usi,UPI-527770159559,,118.00,,"9,068.00"
+12 05,Oct,2025,UPI/SWIGGY/527831692645/Payment for Swi,UPI-527866260492,,125.00,,"8,943.00"
+13 05,Oct,2025,UPI/SWIGGY/527831755566/Payment for Swi,UPI-527867254495,,125.00,,"8,818.00"
+14 06,Oct,2025,UPI/paytm.d11285986/527913891334/UPI,UPI-527911528733,,147.00,,"8,671.00"
+15 06,Oct,2025,UPI/SmartQ/855659862795/AMITYTULIPgoing,UPI-527912153527,,177.00,,"8,494.00"
+16 06,Oct,2025,UPI/q431153359@ybl/527917447892/UPI,UPI-527924908094,,80.00,,"8,414.00"
+17 06,Oct,2025,CASHBACK EARNED,"ONBF-
+c5df10757f61837",,,3.00,"8,417.00"
+18 07,Oct,2025,"UPI/countrydelight./528021664875/Country
+Delight",UPI-528019123770,,"3,000.00",,"5,417.00"
+19 09,Oct,2025,"UPI/Burger King/528254816693/collect-pay-
+req",UPI-528220629060,,333.92,,"5,083.08"
+20 09,Oct,2025,"UPI/Burger King/528254956017/collect-pay-
+req",UPI-528222282780,,40.96,,"5,042.12"
+21 09,Oct,2025,"UPI/ARMAAN KAPOOR/528225871075/Sent
+using Payt",UPI-528223422098,,,120.00,"5,162.12"
+22 09,Oct,2025,UPI/7668753714@ptsb/528217107982/UPI,UPI-528241558193,,129.00,,"5,033.12"
+23 09,Oct,2025,CASHBACK EARNED,"ONBF-
+870a4a589e30a10",,,2.41,"5,035.53"
+24 09,Oct,2025,UPI/bablu998@naviax/528219569318/UPI,UPI-528252273541,,147.00,,"4,888.53"
+25 09,Oct,2025,UPI/Swiggy Ltd/564831832257/remarks,UPI-528255599008,,93.00,,"4,795.53"
+26 11,Oct,2025,UPI/Swiggy Ltd/565065041651/remarks,UPI-528472701816,,118.00,,"4,677.53"
+27 1,2 Oct,2025,"UPI/JATIN MIGLANI/692145892300/Sent using
+Payt",UPI-528559256485,,"7,000.00","11,677.53",
+28 1,3 Oct,2025,UPI/q731927100@ybl/528609360136/UPI,UPI-528600815627,60.00,,"11,617.53",
+29 1,3 Oct,2025,UPI/q129816219@ybl/528613125510/UPI,UPI-528616907510,64.00,,"11,553.53",
+30 1,3 Oct,2025,"UPI/Vinay Verma/390689157759/Sent using
+Payt",UPI-528632968555,,"6,000.00","17,553.53",
+31 1,4 Oct,2025,UPI/paytm.d11285986/528713177968/UPI,UPI-528786902921,70.00,,"17,483.53",
+32 1,4 Oct,2025,"UPI/whsmithuttarpra/528716646105/Payment
+for PIN",UPI-528797795708,416.60,,"17,066.93",
+33 1,4 Oct,2025,UPI/paytmqr6cnyya@p/528716694475/UPI,UPI-528798952224,30.00,,"17,036.93",
+34 1,4 Oct,2025,UPI/binaypandeybina/528719366893/UPI,UPI-528714431065,153.00,,"16,883.93",
+35 1,4 Oct,2025,UPI/8750171095@ptsb/528720504377/UPI,UPI-528717480117,153.00,,"16,730.93",
+36 1,4 Oct,2025,CASHBACK EARNED,"ONBF-
+803c70266e2c342",,2.00,"16,732.93",
+37 1,5 Oct,2025,UPI/q991327250@ybl/528809796637/UPI,UPI-528844191537,15.00,,"16,717.93",
+38 1,6 Oct,2025,UPI/8510832003@ptax/528909093482/UPI,UPI-528916444506,20.00,,"16,697.93",
+39 1,6 Oct,2025,UPI/q991327250@ybl/528914238926/UPI,UPI-528934437714,44.00,,"16,653.93",
+40 1,6 Oct,2025,UPI/q431153359@ybl/528915554005/UPI,UPI-528939696803,60.00,,"16,593.93",
+41 1,6 Oct,2025,UPI/paytmqr6kxcts@p/528915580268/UPI,UPI-528940139708,20.00,,"16,573.93",
+42 1,7 Oct,2025,"UPI/D V ALEXANDER/559039077912/Payment
+from Ph",UPI-529008694821,,400.00,"16,973.93",
+43 1,7 Oct,2025,"UPI/D V ALEXANDER/722943011718/Payment
+from Ph",UPI-529008734698,,50.00,"17,023.93",
+44 1,7 Oct,2025,"UPI/Burger King/529009350618/collect-pay-
+req",UPI-529009466750,261.46,,"16,762.47",
+45 1,8 Oct,2025,UPI/parshantdalal06/529113671234/UPI,UPI-529177284664,90.00,,"16,672.47",
+46 1,9 Oct,2025,UPI/paytm-76881028@/529210507317/UPI,UPI-529243919953,83.00,,"16,589.47",
+47 1,9 Oct,2025,UPI/zepto.payu@axis/529218027547/UPI,UPI-529279055305,136.00,,"16,453.47",
+48 2,0 Oct,2025,UPI/aanandkumar0906/529313285172/UPI,UPI-529332475643,158.00,,"16,295.47",
+49 2,6 Oct,2025,"UPI/countrydelight./529911564859/Country
+Delight",UPI-529996643891,"3,000.00",,"13,295.47",
+50 2,6 Oct,2025,"UPI/JASPREET KAUR/529954885256/Sent
+using Payt",UPI-529900902452,,"5,600.00","18,895.47",
+51 2,7 Oct,2025,UPI/paytm.s1lxy2b@p/530013402836/UPI,UPI-530064004413,122.00,,"18,773.47",
+52 2,7 Oct,2025,"UPI/VANDANA SHARMA/391371387652/Sent
+using Payt",UPI-530066164611,,"8,350.00","27,123.47",
+53 2,7 Oct,2025,UPI/paytmqr1nbuzzun/530020724040/UPI,UPI-530093187441,200.00,,"26,923.47",
+54 2,9 Oct,2025,"UPI/bharatpe9m0b7y2/530212857644/Pay to
+BharatPe",UPI-530283016920,20.00,,"26,903.47",
+55 2,9 Oct,2025,UPI/paytm.s1mx1h5@p/530218149086/UPI,UPI-530209500906,575.00,,"26,328.47",
+56 3,0 Oct,2025,UPI/paytmqr6l7z0h@p/530317002757/UPI,UPI-530367975080,148.00,,"26,180.47",
+57 0,2 Nov,2025,"UPI/AIRTEL PAYMENTS/530600964323/Upi
+Transaction",UPI-530683354902,765.82,,"25,414.65",
+58 0,3 Nov,2025,UPI/AKSHAT TIMBER /530780253607/UPI,UPI-530765868444,,"50,000.00","75,414.65",
+59 0,3 Nov,2025,UPI/SUNIL KUMAR/530720983351/NA,UPI-530766217326,,"19,400.00","94,814.65",
+60 0,3 Nov,2025,UPI/AKSHAT TIMBER /530790952533/UPI,UPI-530766436018,,"25,000.00","1,19,814.65",
+61 0,3 Nov,2025,"PCD/8233/AMITY UNIVERSITY
+NOIDA/NOIDA031125/20:53",530715601501,"1,18,500.00",,"1,314.65",
+62 0,4 Nov,2025,UPI/9717863407@ptye/530812722810/UPI,UPI-530800076040,25.00,,"1,289.65",
+63 0,5 Nov,2025,UPI/paytmqr13clrxb4/530917019097/UPI,UPI-530991604457,50.00,,"1,239.65",
+64 0,7 Nov,2025,"UPI/Restaurant
+Bran/531113278662/OkhlaBirdSanctu",UPI-531112641437,208.96,,"1,030.69",
+65 0,7 Nov,2025,UPI/Burger King/101909264001/BURGERKING,UPI-531113745076,208.96,,821.73,
+66 0,7 Nov,2025,CASHBACK EARNED,ONBF-faffc3369a6d08d,,2.65,824.38,
+67 0,7 Nov,2025,UPI/ekart@axl/531118868960/Payment for,UPI-531137554368,234.00,,590.38,
+68,10,Nov,2025,"UPI/SATYENDRA MAHAT/693653941303/Sent
+using Payt",UPI-531428200643,,800.00,"1,390.38"
+69,10,Nov,2025,"UPI/SUNITA DEVI/648678674258/Payment
+from Ph",UPI-531430202670,,300.00,"1,690.38"
+70,13,Nov,2025,"UPI/countrydelight./531712783072/Country
+Delight",UPI-531733857367,"1,000.00",,690.38
+71,13,Nov,2025,"UPI/OpenAI LLC/731200707536/Mandate
+Request",UPI-531753540940,1.00,,689.38
+72,14,Nov,2025,UPI/vyapar.17533857/531814513424/UPI,UPI-531812595566,293.00,,396.38
+73,15,Nov,2025,"UPI_OCRADJ_U2_TDT_131125_731200707536
+_14NOV2025_1C",FOS25319121705504,,1.00,397.38
+74,18,Nov,2025,UPI/gpay-1125229771/532208996588/UPI,UPI-532264531474,70.00,,327.38
+75,20,Nov,2025,"UPI/DAMANDEEP SINGH/392571657511/Sent
+using Payt",UPI-532432870488,,30.00,357.38
+76,20,Nov,2025,UPI/8935904520@jio/532417846857/UPI,UPI-532435324082,50.00,,307.38
+77,27,Nov,2025,UPI/9718189813@ptsb/533112831162/UPI,UPI-533186672587,60.00,,247.38
+78,27,Nov,2025,UPI/7348041695@fam/533112925749/UPI,UPI-533188734930,61.00,,186.38
+79,27,Nov,2025,UPI/Mrs Manisha /533129932747/Pay request,UPI-533103255974,,800.00,986.38
+80,27,Nov,2025,"PCI/8233/STEAMGAMES.COM
+4259522/985912271125/16:19",533110656603,599.00,,387.38
+81,28,Nov,2025,"UPI/MADHUBALA/507315737633/Payment
+from Ph",UPI-533258902996,,418.00,805.38
+82,28,Nov,2025,"UPI/MADHUBALA/571121505878/Payment
+from Ph",UPI-533270480237,,"2,634.00","3,439.38"
+83,29,Nov,2025,UPI/rajputssoys00-1/533312053395/UPI,UPI-533325337928,51.00,,"3,388.38"
+84,29,Nov,2025,UPI/paytm-76881028@/533313191370/UPI,UPI-533328430649,50.00,,"3,338.38"
+85,29,Nov,2025,UPI/gpay-1124625803/533315697526/UPI,UPI-533338992804,7.00,,"3,331.38"
+86,30,Nov,2025,"UPI/Excitel
+Broadba/232293663345/4639508282",UPI-533481310105,"1,770.00",,"1,561.38"
+87,30,Nov,2025,CASHBACK EARNED,"ONBF-
+1f41b613877bc4b",,3.56,"1,564.94"
+88,30,Nov,2025,UPI/BINSARFARMS/102081048008/Easebuzz,UPI-533483301175,136.50,,"1,428.44"
+89,01,Dec,2025,"UPI/globiquttarprad/533511422965/Payment
+for PIN",UPI-533560034631,80.00,,"1,348.44"
+90,02,Dec,2025,UPI/paytm-76881028@/533612988033/UPI,UPI-533642281096,25.00,,"1,323.44"
+91,02,Dec,2025,UPI/SmartQ/471909173367/AMITYTULIPching,UPI-533656201027,158.00,,"1,165.44"
+92,02,Dec,2025,CASHBACK EARNED,"ONBF-
+15b87e3f909bcdd",,1.69,"1,167.13"
+93,02,Dec,2025,UPI/ADITYA PATHAK/533681813046/UPI,UPI-533656215503,,69.00,"1,236.13"
+94,02,Dec,2025,UPI/pathakaditya859/533616838775/UPI,UPI-533661278433,40.00,,"1,196.13"
+95,06,Dec,2025,UPI/paytmqr6m8ix2@p/534008482651/UPI,UPI-534027440929,30.00,,"1,166.13"
+96,07,Dec,2025,UPI/gpay-1123169019/534120031419/UPI,UPI-534151588882,2.00,,"1,164.13"
+97,08,Dec,2025,UPI/q500589416@ybl/534213118920/UPI,UPI-534292846583,15.00,,"1,149.13"
+98,09,Dec,2025,"UPI/Amity Universit/534304484622/Amity
+Universit",UPI-534342593564,500.00,,649.13
+99,09,Dec,2025,"UPI/Vinay Verma/695282373486/Sent using
+Payt",UPI-534389719711,,"1,000.00","1,649.13"
+100,10,Dec,2025,UPI/paytmqr28100505/534409188243/UPI,UPI-534423019515,20.00,,"1,629.13"
+101,10,Dec,2025,"UPI/Amity Universit/534412400777/Amity
+Universit",UPI-534435609071,500.00,,"1,129.13"
+102,10,Dec,2025,UPI/paytmqr6u439x@p/534412767531/UPI,UPI-534436964566,8.00,,"1,121.13"
+103,10,Dec,2025,"UPI/ARMAAN KAPOOR/534407212982/Sent
+using Payt",UPI-534437605482,,500.00,"1,621.13"
+104,10,Dec,2025,"UPI/Mr Hemant
+Dhaul/013232596086/Payment from Ph",UPI-534438165602,,2.00,"1,623.13"
+105 1,0 Dec,2025,UPI/ADITYA PATHAK/534427233477/UPI,UPI-534442613330,,120.00,"1,743.13",
+106 1,1 Dec,2025,UPI/9654289859@pnb/534509565237/UPI,UPI-534597661691,50.00,,"1,693.13",
+107 1,4 Dec,2025,"UPI/paytmqrg51o8oma/534810430758/Verifie
+d Paytm",UPI-534817470510,78.00,,"1,615.13",
+108 1,4 Dec,2025,"VISA-
+REFUND/121225/121225/STEAMGAMES.COM
+4259522",FOS25348128793382,,599.00,"2,214.13",
+109 1,5 Dec,2025,"UPI/paytm-blinkit@p/534916582380/Blinkit
+Payment",UPI-534914767288,228.00,,"1,986.13",
+110 1,6 Dec,2025,"UPI/shadowfaxonline/535012757015/Payment
+for SHO",UPI-535069415660,28.00,,"1,958.13",
+111 1,6 Dec,2025,"PCI/8233/Steam Purchase/425-952-
+29161225/14:20",535008608482,200.00,,"1,758.13",
+112 1,7 Dec,2025,UPI/upiswiggy@icici/535115036589/UPI,UPI-535153677562,136.00,,"1,622.13",
+113 1,8 Dec,2025,UPI/santoshrauthan6/535213386774/UPI,UPI-535217300834,30.00,,"1,592.13",
+114 1,8 Dec,2025,"UPI/AKSHAT TIMBER /707505049765/Payment
+from Ph",UPI-535242467464,,"5,000.00","6,592.13",
+115 1,8 Dec,2025,UPI/q784472510@ybl/535219614445/UPI,UPI-535243386385,"5,000.00",,"1,592.13",
+116 1,9 Dec,2025,UPI/q501397023@ybl/535312319479/UPI,UPI-535380837812,2.00,,"1,590.13",
+117 1,9 Dec,2025,UPI/ADITYA PATHAK/571934136269/UPI,UPI-535381887603,,40.00,"1,630.13",
+118 2,2 Dec,2025,UPI/SmartQ/645505953565/AMITYTULIPnasht,UPI-535680956463,76.00,,"1,554.13",
+119 2,3 Dec,2025,UPI/8587054952@ybl/535712006875/UPI,UPI-535757695438,25.00,,"1,529.13",
+120 2,3 Dec,2025,"UPI/D V ALEXANDER/348894899801/Payment
+from Ph",UPI-535763239186,,"1,100.00","2,629.13",
+121 2,3 Dec,2025,UPI/ibkpos.ep119749/535716875144/UPI,UPI-535776630531,30.00,,"2,599.13",
+122 2,3 Dec,2025,"UPI/Vinay Verma/696091203698/Sent using
+Payt",UPI-535783120377,,"6,000.00","8,599.13",
+123 2,3 Dec,2025,UPI/paytmqr28100505/535719496269/UPI,UPI-535789518845,30.00,,"8,569.13",
+124 2,3 Dec,2025,"PCI/8233/STEAMGAMES.COM
+4259522/985912231225/19:34",535714487898,"1,088.00",,"7,481.13",
+125 2,5 Dec,2025,811 SUPER CASHBACK NOV25,"ONBF-
+eabfe45ad3c0ef0",,500.00,"7,981.13",
+126 2,5 Dec,2025,UPI/KUNDAN KUMAR SI/116170040493/UPI,UPI-535921361098,,"1,000.00","8,981.13",
+127 2,7 Dec,2025,"UPI/uberindiasystem/536118076979/Payment
+ToUBERIN",UPI-536163396614,21.00,,"8,960.13",
+128 2,7 Dec,2025,UPI/9871076099@ptye/536119374118/UPI,UPI-536169371678,21.00,,"8,939.13",
+129 2,9 Dec,2025,UPI/8076175064@ptye/536310578072/UPI,UPI-536361775052,70.00,,"8,869.13",
+130 2,9 Dec,2025,UPI/8130469537@ptsb/536316705060/UPI,UPI-536386547730,80.00,,"8,789.13",
+131 2,9 Dec,2025,"Chrg: DCC Fee for 8233 ECOM txn on 27-Nov-
+2025",TBMS-1855759264,7.07,,"8,782.06",
+132 3,0 Dec,2025,"PCD/8233/TransportDepartmentDel/hi
+CRP301225/12:22",536412254321,950.00,,"7,832.06",
+133 3,1 Dec,2025,"UPI/BSES Rajdhani/297628199797/Sent using
+Payt",UPI-536599623331,"4,260.00",,"3,572.06",
+134 3,1 Dec,2025,"UPI/SACHIN SHARMA/696526940662/Sent
+using Payt",UPI-536509443726,,950.00,"4,522.06",
+135 3,1 Dec,2025,"UPI/paytm-
+31857153@/536520656513/Country Delight",UPI-536552696368,"3,000.00",,"1,522.06",
+136 3,1 Dec,2025,Int.Pd:5350292211:27-02-2025 to 31-12-2025,,,44.00,"1,566.06",
+137 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:13",600423533835,101.07,,"1,464.99",
+138 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:13",600423533835,,101.07,"1,566.06",
+139 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:17",600423634278,101.07,,"1,464.99",
+140 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:17",600423634278,,101.07,"1,566.06",
+141 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:29",600423964676,101.07,,"1,464.99",
+142 0,5 Jan,2026,"PCI/8233/ORACLE
+SINGAPORE/SINGAPORE050126/05:29",600423964676,,101.07,"1,566.06",
+143 0,5 Jan,2026,UPI/paytmqr1wf2vml2/600509253692/UPI,UPI-600589579778,20.00,,"1,546.06",
+144 0,5 Jan,2026,"UPI/bharatpe.9u0d0i/600516707598/Pay to
+BharatPe",UPI-600521743563,60.00,,"1,486.06",
+145 0,6 Jan,2026,UPI/paytm-76881028@/600612223569/UPI,UPI-600676945205,25.00,,"1,461.06",
+146 0,6 Jan,2026,UPI/Mrs Manisha /600654804908/Pay request,UPI-600680944944,,549.27,"2,010.33",
+147 0,6 Jan,2026,UPI/q718292587@ybl/600615976273/UPI,UPI-600692937378,10.00,,"2,000.33",
+148 0,8 Jan,2026,UPI/upiswiggy@icici/600812328849/UPI,UPI-600827046115,129.00,,"1,871.33",
+149 0,8 Jan,2026,"UPI/SUNIL KUMAR/816266980839/Payment
+from Ph",UPI-600874493983,,"1,500.00","3,371.33",
+150 0,9 Jan,2026,"PCD/8233/NTACUETPGDBCard/Noida090126/
+07:02",600907037536,"1,400.00",,"1,971.33",
+151 0,9 Jan,2026,UPI/ADITYA PATHAK/637586411055/UPI,UPI-600996177102,,40.00,"2,011.33",
+152 1,0 Jan,2026,UPI/paytmqr13clrxb4/601011194641/UPI,UPI-601071218619,50.00,,"1,961.33",
+153 1,2 Jan,2026,UPI/SmartQ/387736850126/AMITYTULIPangre,UPI-601215544940,38.00,,"1,923.33",
+154 1,2 Jan,2026,UPI/paytmqr1nbuzzun/601220417890/UPI,UPI-601264623727,16.00,,"1,907.33",
+155 1,3 Jan,2026,"UPI/ekart@ybl/601307343621/Payment for
+REF",UPI-601385335007,166.00,,"1,741.33",
+156 1,3 Jan,2026,UPI/wajeehahmad24@o/601312143457/UPI,UPI-601301980196,25.00,,"1,716.33",
+157 1,3 Jan,2026,UPI/ADITYA PATHAK/601376529013/UPI,UPI-601307236921,,200.00,"1,916.33",
+158 1,4 Jan,2026,"PCD/8233/IND*Restaurant
+Brands/MUMBAI140126/13:35",601408122341,333.92,,"1,582.41",
+159 1,5 Jan,2026,UPI/Airtel/298443315988/Sent using Payt,UPI-601550258135,200.80,,"1,381.61",
+160 1,9 Jan,2026,UPI/Mr. SANJIB BIS/601912094636/UPI,UPI-601921964187,28.00,,"1,353.61",
+161 1,9 Jan,2026,"PCD/8233/UB Products Pvt Ltd/GAUTAM
+BU190126/13:54",601913783153,340.00,,"1,013.61",
+162 2,0 Jan,2026,"UPI/AKSHAT TIMBER /166277228594/Payment
+from Ph",UPI-602077641826,,"3,000.00","4,013.61",
+163 2,0 Jan,2026,"PCD/8233/BEEJAPURI DAIRY pvt lt/d
+122200126/07:17",601901466990,"3,000.00",,"1,013.61",
+164 2,0 Jan,2026,UPI/Rapido/602012981869/UPI,UPI-602094183519,25.00,,988.61,
+165 2,1 Jan,2026,"PCD/8233/IND*Restaurant
+Brands/MUMBAI210126/13:30",602108407470,239.42,,749.19,
+166 2,2 Jan,2026,"UPI/ARMAAN KAPOOR/395919715973/Sent
+using Payt",UPI-602234771408,,79.00,828.19,
+167 2,2 Jan,2026,"PCD/8233/SUBWAY/GAUTAM
+BUD220126/11:40",602206282307,365.00,,463.19,
+168 2,2 Jan,2026,UPI/ADITYA PATHAK/602207843253/UPI,UPI-602237854812,,500.00,963.19,
+169 2,2 Jan,2026,"PCD/8233/HEALTHLICIOUS BASIL FO/O
+Noi220126/16:23",602216974712,298.00,,665.19,
+170 2,2 Jan,2026,UPI/ADITYA PATHAK/602284660734/UPI,UPI-602256362906,,189.00,854.19,
+171 2,3 Jan,2026,"UPI/BHAVI GOYAL/395976769366/Sent using
+Payt",UPI-602306028321,,500.00,"1,354.19",
+172 2,5 Jan,2026,"Chrg: DCC Fee for 8233 ECOM txn on 16-Dec-
+2025(Value Date: 24-01-2026)",TBMS-1862856935,2.36,,"1,351.83",
+173 2,5 Jan,2026,"Chrg: DCC Fee for 8233 ECOM txn on 23-Dec-
+2025(Value Date: 24-01-2026)",TBMS-1862863145,12.84,,"1,338.99",
+174 2,5 Jan,2026,UPI/HARSH/602515944229/UPI,UPI-602558806101,107.00,,"1,231.99",
+175 2,7 Jan,2026,UPI/Swiggy Ltd/602718078089/Pay for Intent,UPI-602705926340,110.00,,"1,121.99",
+176 2,8 Jan,2026,UPI/JITENDER/602814593482/UPI,UPI-602857497635,40.00,,"1,081.99",
+177 3,1 Jan,2026,"UPI/SACHIN SHARMA/698418454989/Sent
+using Payt",UPI-603179469397,,"1,080.00","2,161.99",
+178 0,1 Feb,2026,"PCD/8233/FLIPKART
+PAYMENTS/0124305400010226/08:09",603102499899,221.00,,"1,940.99",
+179 0,2 Feb,2026,"UPI/AKSHAT TIMBER /503464861414/Payment
+from Ph",UPI-603352536819,,"5,000.00","6,940.99",
+181,03,Feb,2026,UPI/SANGRAM SINGH/603412104579/UPI,UPI-603401836376,25.00,"1,915.99",
+182,03,Feb,2026,"PCD/8233/IND*Restaurant
+Brands/MUMBAI030226/15:31",603410121354,406.38,"1,509.61",
+183,03,Feb,2026,"PCD/8233/www.swiggy.com/GURGAON030226
+/19:49",603414111153,255.00,"1,254.61",
+184,03,Feb,2026,"PCI/8233/CANVA*
+PAAAAHAEPKLJLRN/+17372030226/21:13",603415288056,75.00,"1,179.61",
+185,03,Feb,2026,"PCI/8233/CANVA*
+PAAAAHAEPKLJLRN/+17372030226/21:13",603415288056,75.00,"1,254.61",
+186,04,Feb,2026,UPI/DOSA PLAZA/603513731104/UPI,UPI-603581982762,220.00,"1,034.61",
+187,06,Feb,2026,"PCD/8233/FLIPKART
+PAYMENTS/0124305400060226/08:54",603603767561,127.00,907.61,
+,Acc,ount Sum,mary,,,,,
+Particulars,,Opening,Balance,Closing,Balance,,,
+Savings Account (SA):,,,,0.00,,,,
+Any,"En
+discrepancy in the statement should be
+one month from th
+This is a system generated rep","d of Statem
+brought to t
+e date of rece
+ort and does n","ent
+he notice of
+ipt of the st
+ot require s","Kotak Mahindra Bank Lt
+atement.
+ignature and stamp.",d. within,,,
+,For assista,"nce, reach",out to us,at:,,,,
+"Contact
+1860 266
+(local call char
+Remember!
+Never share
+or password","Us
+0811 Khasra No 65, Ha
+ges apply)","rpool Singh M
+110","Branc
+arket, Main
+045, Delhi, I","h Address
+Dwarka Janakpuri Road,
+ndia, 011-45521061",New Delh,,,
+,"personal/sensitive informatio
+s with anyone.","n like PIN,","CVV, OTP",,"Scan for
+more sa
+banking",,,
+,,,Important Informa,tion,,,,
+,,"RBI mandates Positive Pay for high-value cheques fro
+the day of issuance or before handing it to the benefi
+From October 4, 2025, same-day cheque clearing will
+issuance.
+Complimentary insurance cover on Kotak Debit Card
+accepted until July 20, 2025, as per the existing proce
+& FASTag section on the web portal. For any queries r
+https://www.kotak.bank.in/en/personal-banking /ca
+In order to avail TDS exemption (if eligible) on existin
+be submitted by furnishing the details of all Fixed De
+as well. From FY 2019–20, the TDS exemption thresho
+required up to Rs. 50,000 (Rs. 1,00,000 for senior citiz
+message if already submitted.
+RBI guidelines on unauthorised foreign exchange tran
+trading facilities to Indian residents with promises of
+undertaking unauthorised forex transactions using va
+indicative and not exhaustive). Vigilance and caution
+processing/routing any forex transaction
+As per the RBI Master Direction for Credit and Debit C
+Overdraft accounts is not permissible.
+RBI, vide its circular DOR.CRE.REC.23/21.08.008/2022
+Current Account(s) of customers who have availed va
+Commercial Banks and Payments Banks. Banks (whe
+Credit accounts on a regular basis, at least on a half-y
+system to the borrower vis-à-vis the individual bank's
+guidelines are available in the aforementioned circul
+Deposits of up to ₹5,00,000 per depositor are fully ins
+Scheme.
+Goods and Services Tax (GST), at the applicable rate
+Please note: This statement/ advice should not be co","m Jan 1, 2021. Customers mus
+ciary. For more details, visit ww
+be implemented across all ba
+s (linked to Saving and Current
+ss. Salary account holders ma
+elated to Debit Card insurance
+rds/debit-cards/debit-card-ser
+g/new Fixed Deposits for the Fi
+posits held, at the earliest. For
+ld is increased to Rs. 50,000 (R
+ens) of the aggregate interest e
+sactions dated April 24, 2024,
+disproportionate/exorbitant r
+rious digital channels. Refer to
+are advised. Liaison must be w
+ard Issuance (RBI/2022-23/92 D
+-23 dated April 19, 2022, has is
+rious credit facilities from the
+ther lending banks or otherwis
+early frequency. This monitori
+share in that exposure, in ord
+ar.
+ured by the Deposit Insurance
+of 18%, is levied on relevant se
+nstrued as a Tax Invoice under","t submit cheque
+w.kotak.bank.in
+nks. Cheques will
+accounts) will be
+y view their insur
+, write to dc.insu
+vices/insurnace-
+nancial Year 2023
+m 15G/15H can no
+s. 1,00,000 for sen
+arned on bank d
+state that unauth
+eturns are providi
+the 'Alert List' c
+ith 'Authorised P
+oR.AUT.REC. No.
+sued guidelines p
+banking system.
+e) are required to
+ng must specifica
+er to ensure com
+and Credit Guara
+rvice charges.
+the Goods and S","details via N
+.
+be credited
+discontinu
+ance covers
+rance@kota
+on-debit-car
+–24, fresh F
+w be submi
+ior citizens)
+eposits in a f
+orised entit
+ng options t
+ontaining na
+ersons' and
+27/24.01.04
+ertaining to
+The term ""b
+monitor all
+lly consider
+pliance with
+ntee Corpor
+ervices Tax A","et/Mobil
+or debite
+ed w.e.f.
+under De
+k.com or
+d.html
+orm 15G
+tted con
+; hence,
+inancial
+ies offeri
+o remit/
+mes of s
+on 'Auth
+1/2022-2
+the open
+anking sy
+Current
+the aggr
+the said
+ation, un
+ct.","e Banking or at
+d within a few
+July 20, 2025. A
+bit Card Servic
+visit
+(15H for senior
+veniently throu
+filing of 15G/15
+year. Please ign
+ng foreign exch
+deposit funds in
+uch entities (thi
+orised ETPs' for
+3), issuance of d
+ing and mainte
+stem"" refers to
+Account, Overd
+egate exposure
+instructions. De
+der the Deposit","the bran
+hours of
+ll claims
+es in the
+citizens)
+gh Net B
+H is not
+ore this
+ange (for
+Rupees
+s list is
+ebit car
+nance of
+Schedul
+raft, and
+of the ba
+tailed
+Insuran"
+,,C,ommonly Used Narr,ations,,,,
+AP - A,uto,pay for Billpay,Netcard - N,etc@rd transacti,on,,,
+ATL -,ATM,withdrawal done from other bank ATM machine,OS - Online,Shopping transa,ction,,,
+ATW -,AT,M withdrawal done from Kotak ATM machine,OT - Online,Trading transac,tion via Pay,ment Gat,eway,
+BP - B,ill P,ay transaction,PB - Transa,ction done throu,gh Phone B,anking (I,VR),
+CDM -,Ko,tak Cash Deposit Machine,PCI/PCD -,POS transaction,,,,
+CMS -,Cas,h Management Service,RTGS - Rea,l Time Gross Sett,lement,,,
+IB - Tr,ans,action done on Kotak Net Banking,UPI - Unifie,d Payment Interf,ace,,,
+IMPS -,Im,mediate Payment Service,VISACCPAY,- Visa Credit Car,d Payment,,,
+IMT - I,nst,ant Money Transfer,VMT - VISA,Money Transfer,,,,
+KB - B,illp,ay transaction via Keya Chatbot,WB - Billpa,y transaction via,WhatsApp B,anking,,
+MB - T,ran,saction done on Mobile banking,Int. Pd. - In,terest credited o,n your savin,gs accou,nt balance,
+NACH,- N,ational Automated Clearing House,Sweep tran,sfer to - Booking,new Term D,eposit,,
+NEFT,- Na,tional Electronic Funds Transfer,Sweep tran,sfer from - Broke,n existing T,erm Dep,osit,

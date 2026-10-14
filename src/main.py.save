@@ -1,0 +1,59 @@
+import os
+import sys
+import glob
+import pandas as pd
+
+# Setup Path so Python finds our 'src' folder
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if root_dir not in sys.path:
+    sys.path.append(root_dir)
+
+try:
+    # Importing our custom modules
+    from src.onboarding import create_onboarding_kit
+    from src.converter import convert_pdf_to_csv
+    from src.classifier import clean_statement_csv, tag_transactions, interactive_classification
+    from src.tax_engine import calculate_tax
+except ImportError as e:
+    print(f"[CRITICAL] Import failed: {e}")
+    sys.exit(1)
+
+def main():
+    # --- STEP 1: SMART ONBOARDING ---
+    target_path = create_onboarding_kit()
+    
+    # Check if user actually created the folder
+    if not target_path or not os.path.exists(target_path):
+        print("[!] Onboarding cancelled or folder missing. Exiting.")
+        return
+
+    # --- STEP 2: DOCUMENT DISCOVERY ---
+    print("\n" + "="*50)
+    print(" 📂 STARTING DOCUMENT ANALYSIS")
+    print("="*50)
+    
+    # Find all PDFs in the user's folder
+    pdf_files = glob.glob(os.path.join(target_path, "*.pdf"))
+    
+    if not pdf_files:
+        print(f"[!] No PDF files found in {target_path}")
+        print("    Did you forget to copy them?")
+        return
+
+    # --- STEP 3: PROCESS EACH FILE ---
+    full_financial_data = []
+    
+    for pdf in pdf_files:
+        try:
+            print(f"--- Processing: {os.path.basename(pdf)} ---")
+            
+            # A. Extract (Handle Passwords & Bank Layouts)
+            raw_csv = convert_pdf_to_csv(pdf)
+            if not raw_csv: 
+                print(f" [!] Skipping {os.path.basename(pdf)} (Extraction failed)")
+                continue
+
+            # B. Clean
+            df_clean = clean_statement_csv(raw_csv)
+            if df_clean is None or df_clean.empty: 
+            

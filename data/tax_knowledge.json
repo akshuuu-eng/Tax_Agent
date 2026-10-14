@@ -1,0 +1,60 @@
+{
+    "80C_INVEST": {
+        "description": "Deductions for investments in specified instruments like ELSS, PPF, and Life Insurance premiums.",
+        "keywords": [
+            "LIC",
+            "PPF",
+            "EPF",
+            "ELSS",
+            "Tuition Fee",
+            "School Fee",
+            "Housing Loan Principal"
+        ],
+        "clause": "Section 80C of the Income Tax Act 1961 allows a deduction of up to ₹1.5 Lakh."
+    },
+    "80D_HEALTH": {
+        "description": "Deductions for health insurance premiums for self, spouse, children, and parents.",
+        "keywords": [
+            "HDFC ERGO",
+            "STAR HEALTH",
+            "NIVA BUPA",
+            "CARE HEALTH",
+            "Medical Insurance",
+            "Health Premium"
+        ],
+        "clause": "Section 80D allows deductions for medical insurance premiums up to ₹25,000 (Self) and additional ₹50,000 (Senior Parents)."
+    },
+    "80CCD_NPS": {
+        "description": "Additional deductions for contributions to the National Pension System.",
+        "keywords": [
+            "NPS CONTRIBUTION",
+            "PRAN",
+            "CRA-NSDL",
+            "PENSION FUND"
+        ],
+        "clause": "Section 80CCD(1B) provides an exclusive deduction of ₹50,000 for NPS contributions."
+    },
+    "SALARY": {
+        "description": "Remuneration from employment, including allowances and standard deductions.",
+        "keywords": [
+            "SALARY",
+            "ACH CREDIT",
+            "WIPRO",
+            "TCS",
+            "INFOSYS",
+            "MONTHLY PAY"
+        ],
+        "clause": "Income from salaries is taxed as per the slab rates after a standard deduction of ₹50,000."
+    },
+    "BUSINESS_REV": {
+        "description": "Revenue generated from business operations or professional services.",
+        "keywords": [
+            "NEFT-IN",
+            "IMPS-IN",
+            "UPI-RECEIVE",
+            "CLIENT PAYMENT",
+            "INVOICE"
+        ],
+        "clause": "Business revenue is subject to taxation under Section 28 (Profits and Gains of Business or Profession)."
+    }
+}
